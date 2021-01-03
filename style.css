@@ -1,0 +1,8 @@
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  #img-div{
+      display: flex;
+      justify-content: center;
+  }
